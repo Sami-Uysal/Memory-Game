@@ -1,0 +1,38 @@
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.exe
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.deps.json
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.runtimeconfig.json
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.runtimeconfig.dev.json
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.dll
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.pdb
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.csproj.AssemblyReference.cache
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.Form1.resources
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.Properties.Resources.resources
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.csproj.GenerateResource.cache
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.AssemblyInfoInputs.cache
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.AssemblyInfo.cs
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.csproj.CoreCompileInputs.cache
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.dll
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\refint\Memory_Game.dll
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.pdb
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.genruntimeconfig.cache
+C:\Users\doguk\source\repos\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\ref\Memory_Game.dll
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.exe
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.deps.json
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.runtimeconfig.json
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.runtimeconfig.dev.json
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.dll
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.pdb
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.csproj.AssemblyReference.cache
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.Form1.resources
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.Properties.Resources.resources
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.csproj.GenerateResource.cache
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.AssemblyInfoInputs.cache
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.AssemblyInfo.cs
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.csproj.CoreCompileInputs.cache
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.dll
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\refint\Memory_Game.dll
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.pdb
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.genruntimeconfig.cache
+C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\ref\Memory_Game.dll
