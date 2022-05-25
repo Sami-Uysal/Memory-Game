@@ -36,3 +36,22 @@ C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memor
 C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.pdb
 C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.genruntimeconfig.cache
 C:\Users\samiu\OneDrive - Kastamonu Üniversitesi\Belgeler\Other Documents\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\ref\Memory_Game.dll
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.exe
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.deps.json
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.runtimeconfig.json
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.runtimeconfig.dev.json
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.dll
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\bin\Debug\net5.0-windows\Memory_Game.pdb
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.csproj.AssemblyReference.cache
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.Form1.resources
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.Properties.Resources.resources
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.csproj.GenerateResource.cache
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.AssemblyInfoInputs.cache
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.AssemblyInfo.cs
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.csproj.CoreCompileInputs.cache
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.dll
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\refint\Memory_Game.dll
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.pdb
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\Memory_Game.genruntimeconfig.cache
+D:\Projects\Github\Memory Game\Memory_Game\Memory_Game\obj\Debug\net5.0-windows\ref\Memory_Game.dll

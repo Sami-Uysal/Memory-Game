@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samiu\\OneDrive - Kastamonu Üniversitesi\\Belgeler\\Other Documents\\Memory_Game\\Memory_Game\\Memory_Game.csproj": {}
+    "D:\\Projects\\Github\\Memory Game\\Memory_Game\\Memory_Game\\Memory_Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samiu\\OneDrive - Kastamonu Üniversitesi\\Belgeler\\Other Documents\\Memory_Game\\Memory_Game\\Memory_Game.csproj": {
+    "D:\\Projects\\Github\\Memory Game\\Memory_Game\\Memory_Game\\Memory_Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samiu\\OneDrive - Kastamonu Üniversitesi\\Belgeler\\Other Documents\\Memory_Game\\Memory_Game\\Memory_Game.csproj",
+        "projectUniqueName": "D:\\Projects\\Github\\Memory Game\\Memory_Game\\Memory_Game\\Memory_Game.csproj",
         "projectName": "Memory_Game",
-        "projectPath": "C:\\Users\\samiu\\OneDrive - Kastamonu Üniversitesi\\Belgeler\\Other Documents\\Memory_Game\\Memory_Game\\Memory_Game.csproj",
+        "projectPath": "D:\\Projects\\Github\\Memory Game\\Memory_Game\\Memory_Game\\Memory_Game.csproj",
         "packagesPath": "C:\\Users\\samiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samiu\\OneDrive - Kastamonu Üniversitesi\\Belgeler\\Other Documents\\Memory_Game\\Memory_Game\\obj\\",
+        "outputPath": "D:\\Projects\\Github\\Memory Game\\Memory_Game\\Memory_Game\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\samiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
